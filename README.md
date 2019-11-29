@@ -1,4 +1,6 @@
-This folder contains all my code for the Machine Learning course by Andrew Ng. An overview of exercises are given below
+# Machine Learning by Andrew Ng
+
+This folder contains all my code for exercises given in the Machine Learning course by Andrew Ng. An overview of exercises are given below
 
 Exercise 1
 * Linear regression for one variable
